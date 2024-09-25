@@ -1,6 +1,6 @@
-## 💻 Objetivo do projeto : Recriando a PlayStation Store 
+## 💻 Objetivo do projeto : Re-criando a PlayStation Store 
 
-A ideia esta relalcionado ao conceito de blog.
+Este projeto esta em evolução.
 ---
 
 ## ⚙️ Funcionalidades[x]
