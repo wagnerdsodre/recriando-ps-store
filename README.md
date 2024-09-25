@@ -7,7 +7,8 @@ A ideia esta relalcionado ao conceito de blog.
 
 - [ ] layout;
 - [x] pre-layout;
-- [ ] Consumo de api JSON Server; 
+- [x] Angular Material e Material Module;
+- [ ] Fake-Api:Consumo de api JSON Server; 
 - [ ] Service api Json; 
 - [ ] Cards;
 - [ ] Crud;
