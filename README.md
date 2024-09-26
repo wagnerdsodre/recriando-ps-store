@@ -5,8 +5,8 @@ Este projeto esta em evolução.
 
 ## ⚙️ Funcionalidades[x]
 
-- [ ] layout;
 - [x] pre-layout;
+- [ ] layout;
 - [x] Angular Material e Material Module;
 - [x] Fake-Api:Consumo de api JSON Server; 
 - [ ] Service api Json; 
