@@ -8,7 +8,7 @@ Este projeto esta em evolução.
 - [ ] layout;
 - [x] pre-layout;
 - [x] Angular Material e Material Module;
-- [ ] Fake-Api:Consumo de api JSON Server; 
+- [x] Fake-Api:Consumo de api JSON Server; 
 - [ ] Service api Json; 
 - [ ] Cards;
 - [ ] Crud;
