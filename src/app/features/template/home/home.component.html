@@ -1,0 +1,25 @@
+<div class="home_container">
+  <div class="home_container__slider">
+    <div class="home_container__desconto">
+      <img src="./../assets/img/desconto-slider.avif" alt="">
+    </div>
+  </div>
+  <div class="home_container__promo">
+    <div class="home_container__promo__left">
+      <h3>
+        Planeta dos Descontos
+      </h3>
+      <p>
+        Grandes descontos. Diversão que não acaba mais. É hora de Grandes Jogos, Grandes Ofertas!
+      </p>
+    </div>
+    <div class="home_container__promo__right">
+      <button>Economize Já</button>
+    </div>
+  </div>
+</div>
+  <div class="grid-games">
+    <ng-container *ngFor="let item of dataSource; let i">
+      <app-card  [img]="item.url" [title]="item.title"></app-card>
+    </ng-container>
+  </div>

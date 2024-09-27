@@ -1,12 +1,30 @@
 {
-  "games":[
-    {"id":1,"title":"NameGame","url":"./../assets/img/jogos/8a28b094-4d8b-4854-a841-e54d59c6fdb0.avif"},
-    {"id":1,"title":"NameGame","url":"./../assets/img/jogos/8a28b094-4d8b-4854-a841-e54d59c6fdb0.avif"},
-    {"id":1,"title":"NameGame","url":"./../assets/img/jogos/8a28b094-4d8b-4854-a841-e54d59c6fdb0.avif"},
-    {"id":1,"title":"NameGame","url":"./../assets/img/jogos/8a28b094-4d8b-4854-a841-e54d59c6fdb0.avif"},
-    {"id":1,"title":"NameGame","url":"./../assets/img/jogos/8a28b094-4d8b-4854-a841-e54d59c6fdb0.avif"},
-    {"id":1,"title":"NameGame","url":"./../assets/img/jogos/8a28b094-4d8b-4854-a841-e54d59c6fdb0.avif"},
-    {"id":1,"title":"NameGame","url":"./../assets/img/jogos/8a28b094-4d8b-4854-a841-e54d59c6fdb0.avif"},
-    {"id":1,"title":"NameGame","url":"./../assets/img/jogos/8a28b094-4d8b-4854-a841-e54d59c6fdb0.avif"}
+  "games": [
+    {
+      "id": "1",
+      "title": "NameGame",
+      "url": "./../assets/img/jogos/8a28b094-4d8b-4854-a841-e54d59c6fdb0.avif"
+    },
+    {
+      "id": "2",
+      "title": "NBA",
+      "url": "./../assets/img/jogos/1f189d26-6651-4915-8881-d9480ca83ce4.avif"
+    },
+    {
+      "id": "3",
+      "title": "GODWAR - Ragnarok",
+      "url": "./../assets/img/jogos/954ceda1-c86c-42cc-bd63-28d8e294252e.avif"
+    },
+    {
+      "id": "4",
+      "title": "Astro BOT",
+      "url": "./../assets/img/jogos/acd823c7-aedf-41a6-ab02-c159d6d94fa7.avif"
+    },
+    {
+      "id": "5",
+      "title": "Spider-Man 2",
+      "url": "./../assets/img/jogos/c5e7e0d7-0e08-45d8-a273-dbfee9b1e259.avif"
+    }
+
   ]
 }
