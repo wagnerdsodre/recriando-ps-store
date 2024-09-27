@@ -32,6 +32,7 @@ A documentação brevemete estará disponível no link: <a href="#">Trello</a>
 As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
 
 - **[Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.**
+- **[Angular Material](https://v16.material.angular.io/) version 16.2.16.**
 - **[Typescript](https://www.typescriptlang.org/)**
 - **[Json-Server](https://www.npmjs.com/package/json-server)**
 - **[Angular CLI Overview and Command Reference](https://angular.io/cli)**
