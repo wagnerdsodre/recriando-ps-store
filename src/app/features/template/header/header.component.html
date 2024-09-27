@@ -1,6 +1,11 @@
 <div class="header">
-  <div class="header__top"><img src="https://store.playstation.com/static/lib/shared-nav/3.1.8/assets/fonts/sony_logo.svg" width="90"></div>
-  <div class="header__sub-top">
+<mat-toolbar class="header__top" mat-elevation-z6>
+ <img src="https://store.playstation.com/static/lib/shared-nav/3.1.8/assets/fonts/sony_logo.svg" width="90">
+
+</mat-toolbar>
+
+
+<mat-toolbar class="header__sub-top">
     <div class="sub-top__logo">
       <img src="../assets/img/logo-ps.png" width="70">
     </div>
@@ -20,8 +25,8 @@
     <div class="sub-top-search">
       <input type="text" value="Pesquisar" style="height: 20px; padding: 5px; border: 1px solid #333">
     </div>
-  </div>
-  <div class="header__menu">
+  </mat-toolbar>
+    <mat-toolbar class="header__menu" mat-elevation-z2>
     <div class="logo">
       <img src="../assets/img/logo-ps.png" width="20">
       <span><strong>PlayStation</strong>.Store</span>
@@ -35,5 +40,7 @@
         <li>Navegar</li>
       </ul>
     </div>
-  </div>
-</div>
+</mat-toolbar>
+
+
+
